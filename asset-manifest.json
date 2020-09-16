@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/UI-UX-PROJECT/static/css/main.2f3fe2df.chunk.css",
+    "main.js": "/UI-UX-PROJECT/static/js/main.9bd2f1ba.chunk.js",
+    "main.js.map": "/UI-UX-PROJECT/static/js/main.9bd2f1ba.chunk.js.map",
+    "runtime-main.js": "/UI-UX-PROJECT/static/js/runtime-main.b830e528.js",
+    "runtime-main.js.map": "/UI-UX-PROJECT/static/js/runtime-main.b830e528.js.map",
+    "static/js/2.48fb600e.chunk.js": "/UI-UX-PROJECT/static/js/2.48fb600e.chunk.js",
+    "static/js/2.48fb600e.chunk.js.map": "/UI-UX-PROJECT/static/js/2.48fb600e.chunk.js.map",
+    "index.html": "/UI-UX-PROJECT/index.html",
+    "precache-manifest.d0509adcdb0666b79ebc31d361f7ce70.js": "/UI-UX-PROJECT/precache-manifest.d0509adcdb0666b79ebc31d361f7ce70.js",
+    "service-worker.js": "/UI-UX-PROJECT/service-worker.js",
+    "static/css/main.2f3fe2df.chunk.css.map": "/UI-UX-PROJECT/static/css/main.2f3fe2df.chunk.css.map",
+    "static/js/2.48fb600e.chunk.js.LICENSE.txt": "/UI-UX-PROJECT/static/js/2.48fb600e.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/UI-UX-PROJECT/static/media/Bg.69d48b1d.png",
+    "static/media/home.png": "/UI-UX-PROJECT/static/media/home.c22eaa67.png",
+    "static/media/icon _fb.png": "/UI-UX-PROJECT/static/media/icon _fb.f22e8719.png",
+    "static/media/icon _google.png": "/UI-UX-PROJECT/static/media/icon _google.c4a6241f.png",
+    "static/media/icon _mail.png": "/UI-UX-PROJECT/static/media/icon _mail.27bd2c32.png",
+    "static/media/object2.png": "/UI-UX-PROJECT/static/media/object2.e5d8f8e7.png",
+    "static/media/object3.png": "/UI-UX-PROJECT/static/media/object3.6e0f7aea.png",
+    "static/media/ph.png": "/UI-UX-PROJECT/static/media/ph.f5d86cff.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b830e528.js",
+    "static/js/2.48fb600e.chunk.js",
+    "static/css/main.2f3fe2df.chunk.css",
+    "static/js/main.9bd2f1ba.chunk.js"
+  ]
+}
